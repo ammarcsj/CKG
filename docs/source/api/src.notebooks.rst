@@ -1,4 +1,4 @@
-Notebooks - development
+Notebooks (notebooks)
 ==============================================
 
 vis.py
