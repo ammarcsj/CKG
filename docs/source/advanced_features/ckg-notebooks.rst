@@ -73,3 +73,12 @@ Development notebooks
 In ``src/report_manager/development`` we gathered Jupyter notebooks with analysis and workflows we believe are of interest for the users but are still under development.
 
 When a notebook in this folder is functional and successfully benchmarked, the notebook is moved to the reporting directory.
+
+
+
+
+Testing notebooks
+========================
+
+* **Notebook1**:
+	:any: `Project Reporting` <notebooks/project_reporting>
